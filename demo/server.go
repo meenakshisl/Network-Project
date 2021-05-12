@@ -5,7 +5,7 @@ import (
 	"flag"
 	"fmt"
 	"net"
-	"os"
+	_"os"
 	"strconv"
 	"time"
 	"crypto/hmac"
